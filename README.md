@@ -1,2 +1,2 @@
 # portfolio
-Some exemples
+Some examples
